@@ -1,4 +1,4 @@
-[![MasterHead](https://www.123rf.com/photo_102988806_vector-line-web-concept-for-programming-linear-web-banner-for-coding.html)]
+
 <h1 align="center">Hi 👋, I'm Ahlem Tabbassi</h1>
 <h3 align="center">A 2nd year computer science student</h3>
 
