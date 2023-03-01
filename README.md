@@ -8,7 +8,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wPIZeE9y7TU_z815bBz8m-c3lHVVOopD/view?usp=sharing](https://drive.google.com/file/d/1wPIZeE9y7TU_z815bBz8m-c3lHVVOopD/view?usp=sharing)
 
-- 🐝 Fun fact **I hate bees**
+- 🐝 Fun fact about me: **I hate bees**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
