@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ahlemtabbassii@gmail.com**
 
-- 🐝 Fun fact **I hate bees**
+- 🐝 Fun fact about me: **I hate bees**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wPIZeE9y7TU_z815bBz8m-c3lHVVOopD/view?usp=sharing](https://drive.google.com/file/d/1wPIZeE9y7TU_z815bBz8m-c3lHVVOopD/view?usp=sharing)
 
