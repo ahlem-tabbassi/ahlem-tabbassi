@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ahlem Tabbassi</h1>
 <h3 align="center">A 2nd year computer science student</h3>
 
-- 🌱 I’m currently learning **nodeJs ,MongoDb**
+- 🌱 I’m currently working on MERN stack projects**
 
 - 📫 How to reach me **ahlemtabbassii@gmail.com**
 
