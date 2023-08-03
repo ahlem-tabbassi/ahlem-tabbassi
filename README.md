@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ahlem Tabbassi</h1>
-<h3 align="center">A 2nd year computer science student</h3>
+<h3 align="center">Computer science student</h3>
 
 - 🌱 I’m currently working on MERN stack projects**
 
