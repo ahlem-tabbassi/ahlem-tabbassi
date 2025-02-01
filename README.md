@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Ahlem Tabbassi</h1>
-<h3 align="center">Computer science student</h3>
+<h3 align="center">Software Engineering student</h3>
 
 - 🌱 I’m currently working on MERN stack projects**
 
 - 📫 How to reach me **ahlemtabbassii@gmail.com**
 
-- 📄 Know about my experiences [[[https://drive.google.com/file/d/1L5qKntiCoP2AZdUmAlntkneEl7D2NSBb/view?usp=sharing]]]
+- 📄 Know about my experiences [[[https://drive.google.com/file/d/1o__DSrMFTpm6vOJ7XhBhTGD7cyZ3PuPK/view?usp=sharing]]]
 
-- 🐝 Fun fact about me: **I hate bees**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
